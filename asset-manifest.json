@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MiProyectoHonorio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/MiProyectoHonorio/static/js/main.a4aadab9.chunk.js",
+    "main.js.map": "/MiProyectoHonorio/static/js/main.a4aadab9.chunk.js.map",
+    "runtime-main.js": "/MiProyectoHonorio/static/js/runtime-main.a3e83f62.js",
+    "runtime-main.js.map": "/MiProyectoHonorio/static/js/runtime-main.a3e83f62.js.map",
+    "static/css/2.4be38407.chunk.css": "/MiProyectoHonorio/static/css/2.4be38407.chunk.css",
+    "static/js/2.93a1b0ef.chunk.js": "/MiProyectoHonorio/static/js/2.93a1b0ef.chunk.js",
+    "static/js/2.93a1b0ef.chunk.js.map": "/MiProyectoHonorio/static/js/2.93a1b0ef.chunk.js.map",
+    "static/js/3.214da26e.chunk.js": "/MiProyectoHonorio/static/js/3.214da26e.chunk.js",
+    "static/js/3.214da26e.chunk.js.map": "/MiProyectoHonorio/static/js/3.214da26e.chunk.js.map",
+    "index.html": "/MiProyectoHonorio/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/MiProyectoHonorio/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/MiProyectoHonorio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.93a1b0ef.chunk.js.LICENSE.txt": "/MiProyectoHonorio/static/js/2.93a1b0ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3e83f62.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.93a1b0ef.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a4aadab9.chunk.js"
+  ]
+}
