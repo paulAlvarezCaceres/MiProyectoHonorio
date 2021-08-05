@@ -1,11 +1,11 @@
 import React from 'react'
-//import galeria1 from './src/img/galeria1.jpg'
-//import galeria2 from './src/img/galeria2.jpg'
-//import galeria3 from './src/img/galeria3.jpg'
+import carru1 from '../assets/img/carruselU.jpg';
+import carru2 from '../assets/img/carruselD.jpg';
+import carru3 from '../assets/img/carruselT.jpg';
 
 const Carrusel = () => {
 	return (
-		<div>
+		<div className="my-3">
 			<div id="carouselExampleIndicators" className="carousel slide" data-bs-ride="carousel">
 			<div className="carousel-indicators">
 				<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -14,13 +14,13 @@ const Carrusel = () => {
 			</div>
 			<div className="carousel-inner">
 				<div className="carousel-item active">
-					<img src="https://i.ibb.co/LQtVmCz/galeria2.jpg" width="100%" height="60%" className="d-block w-100" alt="..."/>
+					<img src={carru1} width="100%" height="60%" className="d-block w-100" alt="..."/>
 				</div>
 				<div className="carousel-item">
-					<img src="https://i.ibb.co/s1wvg0Z/galeria3.jpg" width="100%" height="60%" className="d-block w-100" alt="..."/>
+					<img src={carru2} width="100%" height="60%" className="d-block w-100" alt="..."/>
 				</div>
 				<div className="carousel-item">
-					<img src="https://i.ibb.co/vJjknq1/galeria1.jpg" width="100%" height="60%" className="d-block w-100" alt="..."/>
+					<img src={carru3} width="100%" height="60%" className="d-block w-100" alt="..."/>
 				</div>
 			</div>
 			<button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -32,7 +32,7 @@ const Carrusel = () => {
 				<span className="visually-hidden">Next</span>
 			</button>
 		</div>		
-			
+			La costura parece un arte lleno de secretos, pero la realidad es que es accesible para todos los que tienen paciencia, motivación y cuidado por los detalles.
 		</div>
 	)
 }
