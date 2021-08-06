@@ -11,6 +11,7 @@ const PiePag = () => {
 				<div class="col-md-3 mx-auto mb-4 my-5">
 					<h6 class="text-uppercase font-weight-bold text-warning">Proveedores</h6>
 					<hr class="badge-success mb-4 mt-0 d-inline-block mx-auto" style={{width: '125px', height: '2px'}}/>
+					<p2 class="mt-2">Alvarez Caceres Richard Paul</p2>
 					<p class="mt-2">Los gatos negros de Lurigancho</p>
 					<a class="navbar-brand" href="#"><img src={gato} class="logo2" style={{width: '150px', height: '150px'}}/></a>
 				</div>
